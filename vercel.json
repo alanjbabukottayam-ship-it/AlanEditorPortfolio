@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "rewrites": [
+    { "source": "/", "destination": "/dimden.dev/index.html" },
+    { "source": "/css/(.*)", "destination": "/dimden.dev/css/$1" },
+    { "source": "/js/(.*)", "destination": "/dimden.dev/js/$1" },
+    { "source": "/images/(.*)", "destination": "/dimden.dev/images/$1" },
+    { "source": "/fonts/(.*)", "destination": "/dimden.dev/fonts/$1" }
+  ]
+}
