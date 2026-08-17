@@ -63,7 +63,7 @@ body {
 body,
 #debug {
     image-rendering: pixelated;
-    font-family: "NEC_APC3", "Perfect DOS VGA 437 Win", "Pixel NES", monospace, sans-serif;
+    font-family: "RussianGothic", "MS UI Gothic", "NEC_APC3", Tahoma;
     background-color: black;
     text-shadow: var(--body-text-shadow);
     font-smooth: never;
