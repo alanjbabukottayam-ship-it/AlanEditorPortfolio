@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "Pixel NES";
+  src: url("Pixel_NES.woff") format("woff");
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family: "Pixel NES"
+}
